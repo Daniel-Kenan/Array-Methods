@@ -1,0 +1,16 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "provides python methods and more array methods to make the world easier  :-)",
+  "main": "array-methods.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"javascript\"",
+    "\"array-methods\""
+  ],
+  "author": "Daniel Kenan Slinda",
+  "license": "ISC"
+}
